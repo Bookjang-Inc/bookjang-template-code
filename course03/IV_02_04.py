@@ -10,6 +10,4 @@ print()
 '''\n, 개행 문자를 사용해 보세요.'''
 print()
 
-'''type fuction을 이용해서 '100'과 100의 차이를 확인해 보세요'''
-print(type())
-print(type())
+'''Console에 type('100')과 type(100)을 작성해보고, 둘의 차이를 확인해 보세요.'''
