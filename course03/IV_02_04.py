@@ -10,4 +10,7 @@ print()
 '''\n, 개행 문자를 사용해 보세요.'''
 print()
 
+#type( ) function은 입력한 값의 data type을 알려줍니다.
+#[예]
+#type(100) #100의 data type을 알려줍니다.
 '''Console에 type('100')과 type(100)을 작성해보고, 둘의 차이를 확인해 보세요.'''
